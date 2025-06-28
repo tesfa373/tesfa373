@@ -1,18 +1,35 @@
-
+<h1 align="center">👋 Hi, I'm Tesfamichael Dereje</h1>
+<h3 align="center">Full-Stack Developer | ALX SE Learner | Passionate Problem Solver</h3>
 
 ---
 
+## 🚀 About Me
 
+I’ve always been curious about how technology works behind the scenes. That curiosity led me to software engineering — where I could turn ideas into real, working solutions. I began this journey to gain the skills to solve real-world problems, build things from the ground up, and contribute to meaningful innovations that improve people’s lives.
 
-1. Tesfamichael Dereje
-2. fullstack developer
-3.I’ve always been curious about how technology works behind the scenes. I started learning software engineering to gain the ability to solve real-world problems through code, build things from scratch, and contribute to innovative solutions that improve people’s lives. Joining the ALX program gave me the opportunity to explore this path with structure and community support.
+Thanks to the ALX Software Engineering program, I’ve had the opportunity to dive deep into full-stack development, grow within a global learning community, and gain real-world, project-based experience.
 
+---
 
-4.I’m inspired by the impact software can have on people’s daily lives — from automation to accessibility. Seeing how developers solve complex problems motivates me to keep learning. I’m also driven by continuous improvement and the excitement of creating something functional and useful from just an idea.
+## 💡 What Inspires Me
 
+I’m inspired by the power of software to make everyday life better — whether it’s through automation, accessibility, or productivity. Watching developers around the world solve complex problems motivates me to keep learning and improving. I find joy in creating functional, useful tools from scratch — especially those that help others.
 
-5.My long-term goal is to become a skilled full-stack developer who builds scalable, secure, and user-friendly web applications. I also want to contribute to open-source projects and collaborate with global teams solving meaningful challenges, especially in education, health, and finance.
-6. TI enjoy working on backend systems, APIs, and full-stack applications that solve practical problems. I’m particularly interested in building tools for productivity, learning platforms, and data-driven apps. I also love projects that help me understand system architecture and performance.
+---
 
+## 🎯 My Long-Term Goal
 
+My ambition is to become a highly skilled **full-stack developer** who builds scalable, secure, and user-friendly web applications. I aim to contribute to **open-source projects**, work with **global teams**, and tackle meaningful challenges — particularly in the fields of **education, health, and finance**.
+
+---
+
+## 🛠️ What I Enjoy Building
+
+I enjoy creating:
+- 🔧 Backend systems and RESTful APIs  
+- ⚙️ Full-stack applications that solve practical problems  
+- 📊 Data-driven tools and dashboards  
+- 🧱 Productivity and learning platforms  
+- 🏗️ Projects that help me understand system architecture and performance  
+
+My passion lies in turning complex problems into elegant, working solutions — and I’m always open to collaboration and learning from others.
